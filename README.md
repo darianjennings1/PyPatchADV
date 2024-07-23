@@ -1,4 +1,4 @@
-# Physical-Adversarial-Attacks-on-Deep-Learning-based-ISP-Pipelines
+# Physical Adversarial Attacks on Deep-Learning based ISP Pipelines
 
 ## About
 We developed a patch-based adverarial attack algorithm to explicitly attack the PyNET-CA image signal processing (ISP) model. The algorithm is able to generate patches of various size and intensity and by default places the patch at the center of the image, although you can easily manipuilate a few variables to control the positioning. It then outputs these images into a seperate folder in Google Drive, you can then download these attacked images and pass them to the PyNET-CA model to be processed.
